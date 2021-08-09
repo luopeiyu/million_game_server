@@ -24,6 +24,8 @@ the book of million online game server development
  
 ## 亲手用C++仿写Skynet 
 书中第五部分会以C++仿写Skynet为主线，一方面说明Skynet的调度原理，另一方面介绍C++开发服务端的方法。 
+![程序的内存示意图](https://github.com/luopeiyu/million_game_server/blob/master/web/sunnet1.jpg)  
+ 
  
 ## 探寻网络同步算法 
 状态同步、帧同步、卡顿的原因？ 书中第八章探索同步问题 
