@@ -4,8 +4,8 @@ the book of million online game server development
 
 **出版进度**     
 2021.7.1  由于涉及一些版权图片，作者联系了各家游戏公司，获得游戏截图的授权。或者修改一些图片。      
-2021.8.2  完成排版，正在校对。   
-书籍已经进入出版社审稿阶段，预计2021年出版。  
+2021.8.2  完成排版，正在校对。书籍已经进入出版社审稿阶段，预计2021年出版。  
+
 
 更多介绍请见WIKI  
 [首页](https://github.com/luopeiyu/million_game_server/wiki)  
