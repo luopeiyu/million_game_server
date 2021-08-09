@@ -2,7 +2,7 @@
 the book of million online game server development 
 《百万在线：大型游戏服务端开发》 
 
-出版进度   
+**出版进度**     
 2021.7.1  由于涉及一些版权图片，作者联系了各家游戏公司，获得游戏截图的授权。或者修改一些图片。      
 2021.8.2  完成排版，正在校对。   
 书籍已经进入出版社审稿阶段，预计2021年出版。  
@@ -22,11 +22,35 @@ the book of million online game server development
 书籍第三章将用一个完整游戏案例——球球大作战，介绍分布式游戏服务端的实现。 
 ![球球大作战战斗界面](https://github.com/luopeiyu/million_game_server/blob/master/web/qqdzz2.jpg) 
  
+ **相关内容**     
+ Skynet的使用方法  
+ 服务端拓扑结构设计  
+ 如何编写服务端逻辑   
+ 如何实现跨服逻辑   
+ 如何对网络数据编码解码   
+ 如何设计游戏数据库   
+ 如何正确关闭服务器   
+ 怎样做断线重连   
+ 
 ## 亲手用C++仿写Skynet 
 书中第五部分会以C++仿写Skynet为主线，一方面说明Skynet的调度原理，另一方面介绍C++开发服务端的方法。 
 ![程序的内存示意图](https://github.com/luopeiyu/million_game_server/blob/master/web/sunnet1.jpg)  
  
- 
+**相关内容**   
+操作系统如何调度进程  
+栈、堆的区别   
+如何创建线程   
+如何更好的创建C++对象
+对象的内存分布   
+用cmake构建工程  
+读写锁、自旋锁、互斥锁的区别  
+哈希表的使用和性能  
+锁的临界区控制   
+如何使用条件变量   
+C++网络编程  
+C++嵌入Lua   
+
+
 ## 探寻网络同步算法 
 状态同步、帧同步、卡顿的原因？ 书中第八章探索同步问题 
  
