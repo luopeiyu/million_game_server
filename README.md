@@ -1,6 +1,6 @@
 # million_game_server
 the book of million online game server development 
-《百万在线：大型游戏服务端开发》 
+《百万在线：大型游戏服务端开发》  
 ![百万在线](https://github.com/luopeiyu/million_game_server/blob/master/web/zcover.jpg)   
  
 **出版进度**     
