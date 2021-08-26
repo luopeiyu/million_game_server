@@ -1,11 +1,13 @@
 # million_game_server
 the book of million online game server development 
 《百万在线：大型游戏服务端开发》 
-
+![百万在线](https://github.com/luopeiyu/million_game_server/blob/master/web/zcover.jpg)   
+ 
 **出版进度**     
 2021.7.1  由于涉及一些版权图片，作者联系了各家游戏公司，获得游戏截图的授权。或者修改一些图片。      
 2021.8.2  完成排版，正在校对。书籍已经进入出版社审稿阶段，预计2021年出版。  
 2021.8.13 开始印刷。 
+2021.8.25 样书发到出版社
 
 更多介绍请见WIKI  
 [首页](https://github.com/luopeiyu/million_game_server/wiki)  
@@ -21,6 +23,7 @@ the book of million online game server development
 ## 做个大作战游戏 
 书籍第三章将用一个完整游戏案例——球球大作战，介绍分布式游戏服务端的实现。 
 ![球球大作战战斗界面](https://github.com/luopeiyu/million_game_server/blob/master/web/qqdzz2.jpg) 
+
  
  **相关内容**     
  Skynet的使用方法  
