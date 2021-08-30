@@ -1,0 +1,7 @@
+package login;
+
+message Login {
+    required int32 id = 1;
+    required string pw = 2;       
+    optional int32 result = 3;
+ }
