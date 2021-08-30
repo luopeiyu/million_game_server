@@ -1,5 +1,5 @@
 # million_game_server
-the book of million online game server development 
+the book of million online game server development  
 《百万在线：大型游戏服务端开发》  
 ![百万在线](https://github.com/luopeiyu/million_game_server/blob/master/web/zcover.jpg)   
  
@@ -18,44 +18,22 @@ the book of million online game server development
  
  
 ## 做个大作战游戏 
-书籍第三章将用一个完整游戏案例——球球大作战，介绍分布式游戏服务端的实现。 
+书籍第三章将用一个完整游戏案例——球球大作战，介绍分布式游戏服务端的实现。  
+Skynet的使用方法、服务端拓扑结构设计、如何编写服务端逻辑、如何实现跨服逻辑、如何对网络数据编码解码、如何设计游戏数据库、如何正确关闭服务器、怎样做断线重连   
 ![球球大作战战斗界面](https://github.com/luopeiyu/million_game_server/blob/master/web/qqdzz2.jpg) 
 
  
- **相关内容**     
- Skynet的使用方法  
- 服务端拓扑结构设计  
- 如何编写服务端逻辑   
- 如何实现跨服逻辑   
- 如何对网络数据编码解码   
- 如何设计游戏数据库   
- 如何正确关闭服务器   
- 怎样做断线重连   
+  
  
 ## 亲手用C++仿写Skynet 
-书中第五部分会以C++仿写Skynet为主线，一方面说明Skynet的调度原理，另一方面介绍C++开发服务端的方法。 
+书中第五部分会以C++仿写Skynet为主线，一方面说明Skynet的调度原理，另一方面介绍C++开发服务端的方法。  
+用cmake构建工程、操作系统如何调度进程、栈堆的区别、如何创建线程、智能指针创建C++对象、对象的内存分布、读写锁自旋锁互斥锁的区别、哈希表的使用和性能、锁的临界区控制、如何使用条件变量、半小时学会Epoll、C++嵌入Lua   
 ![程序的内存示意图](https://github.com/luopeiyu/million_game_server/blob/master/web/sunnet1.jpg)  
- 
-**相关内容**   
-操作系统如何调度进程  
-栈、堆的区别   
-如何创建线程   
-如何更好的创建C++对象
-对象的内存分布   
-用cmake构建工程  
-读写锁、自旋锁、互斥锁的区别  
-哈希表的使用和性能  
-锁的临界区控制   
-如何使用条件变量   
-C++网络编程  
-C++嵌入Lua   
+  
 
 
-## 探寻网络同步算法 
-状态同步、帧同步、卡顿的原因？ 书中第八章探索同步问题 
- 
-## 热更新 
-服务端怎么做热更新？热更新技术的来龙去脉？书中第九章探索热更新问题 
- 
-## 防外挂 
-服务端怎么做防外挂？防外挂的常见技巧？书中第十章探索外挂问题 
+
+## 同步算法 热更新 防外挂 
+状态同步、帧同步、卡顿的原因？ 书中第八章探索同步问题  
+服务端怎么做热更新？热更新技术的来龙去脉？书中第九章探索热更新问题   
+服务端怎么做防外挂？防外挂的常见技巧？书中第十章探索外挂问题   
