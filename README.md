@@ -3,8 +3,8 @@ the book of million online game server development
 《百万在线：大型游戏服务端开发》  
 ![百万在线](https://github.com/luopeiyu/million_game_server/blob/master/web/zcover.jpg)   
  
-**出版进度**     
-2021.8.30 即将上架
+
+京东连接  [https://item.jd.com/12931061.html](https://item.jd.com/12931061.html)  
 
 更多介绍请见WIKI  
 [首页](https://github.com/luopeiyu/million_game_server/wiki)  
